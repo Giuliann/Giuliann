@@ -26,7 +26,8 @@ Me chamo **Giuliann de Sousa Duarte**, curso Bacharelado em Ciência da Computa�
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sgiuliann@gmail.com)
 
 ## Repositórios
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Giuliann&repo=estudos-python&theme=kacho_ga)](https://github.com/Giuliann/estudos-python)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Giuliann&repo=introducao_algoritmo&theme=kacho_ga)](https://github.com/Giuliann/introducao_algoritmo)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Giuliann&repo=estudos-python&theme=kacho_ga&card_width=400)](https://github.com/Giuliann/estudos-python)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=Giuliann&repo=introducao_algoritmo&theme=kacho_ga&card_width=400)](https://github.com/Giuliann/introducao_algoritmo)
+
 
 <img align="right" width="250" alt="Gato" src="https://github.com/user-attachments/assets/06d8ec43-e24f-485a-9015-c216a538c4df" />
