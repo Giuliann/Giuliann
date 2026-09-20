@@ -7,7 +7,7 @@ Me chamo **Giuliann de Sousa Duarte**, curso Bacharelado em Ciência da Computa�
 - 🏖 | Ceará, Brasil
 
 ##
-<p align="leftr">
+<p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Giuliann&hide_title=true&show_icons=true&include_all_commits=true&theme=kacho_ga" width="380"/>
   <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Giuliann&layout=compact&langs_count=4&theme=kacho_ga&card_width=400">
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Giuliann&layout=compact&langs_count=4&theme=kacho_ga&card_width=400" width="380"/>
