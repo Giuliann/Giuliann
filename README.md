@@ -1,10 +1,10 @@
-## 🗣 Olá! Sou Giuliann Duarte 👋
+## Olá! Sou Giuliann de Sousa Duarte
 Me chamo **Giuliann de Sousa Duarte**, curso Bacharelado em Ciência da Computação na Universidade Estadual do Ceará (UECE), em Fortaleza, e atualmente venho me dedicando à área de **análise de dados**, trabalhando com Python.
 
 ## ♘ Sobre: 
 - 📖 | Graduando em Ciência da Computação (UECE)
 - 🌱 | Atualmente estudando Python e Análise de Dados
-- 🏖 | Paracuru-CE
+- 🏖 | Ceará, Brasil
 
 ##
 <p align="center">
