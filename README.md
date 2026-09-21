@@ -1,4 +1,6 @@
-## Olá, eu sou o Giuliann 👋
+##
+<img width="1584" height="396" alt="Giuliann GitHub Banner" src="https://github.com/user-attachments/assets/c0175639-0fcb-48c4-9e3b-a2acc3bce198" />
+
 Me chamo **Giuliann de Sousa Duarte**, curso Bacharelado em Ciência da Computação na Universidade Estadual do Ceará (UECE), em Fortaleza, e atualmente venho me dedicando à área de **análise de dados**, trabalhando com Python.
 
 ## Sobre: 
